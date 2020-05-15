@@ -1,2 +1,7 @@
 # TFG
-It´s a repository for my final university project
+Sistemas básicos de red creados.
+Sistemas de sincronizacion creados.
+Menu provisional
+Controles básicos creados.
+Interfaces provisionales.
+Modelos provisionales.
